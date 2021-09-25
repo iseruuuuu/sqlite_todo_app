@@ -1,6 +1,9 @@
 # sql_todo_app
 
-A new Flutter project.
+sqliteを使ったTodoアプリ
+
+# Package
+sqflite: https://pub.dev/packages/sqflite
 
 ## Getting Started
 
