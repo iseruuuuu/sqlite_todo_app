@@ -5,6 +5,15 @@ sqliteを使ったTodoアプリ
 # Package
 sqflite: https://pub.dev/packages/sqflite
 
+path_provider: https://pub.dev/packages/path_provider
+
+uuid: https://pub.dev/packages/uuid
+
+provider: https://pub.dev/packages/provider
+
+datetime_picker_formfield: https://pub.dev/packages/datetime_picker_formfield
+
+
 ## Getting Started
 
 参考にしているサイト
