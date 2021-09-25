@@ -14,8 +14,6 @@ provider: https://pub.dev/packages/provider
 datetime_picker_formfield: https://pub.dev/packages/datetime_picker_formfield
 
 
-## Getting Started
-
-参考にしているサイト
+## 参考にしているサイト
 
 https://qiita.com/popy1017/items/7ada79b07281f4a8e544
